@@ -1,0 +1,5 @@
+{
+  "embed_dim": 3584,
+  "orthogonalize": true,
+  "rank": 2
+}
